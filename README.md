@@ -8,7 +8,7 @@
  - 👯 I’m looking to collaborate on App Dev.
  - 🤔 I’m looking for help with different technologies and their implemenation 
  - 💬 Ask me about anything!
- - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/DhrumilThakore)
+ - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/DhrumilThakore)
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: I like playing cricket and I love listening to music
  
