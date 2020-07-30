@@ -10,7 +10,7 @@
  - 💬 Ask me about anything!
  - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/DhrumilThakore)
  - 😄 Pronouns: he/him
- - ⚡ Fun fact: I like playing cricket and I love Music.
+ - ⚡ Fun fact: I like playing cricket and I love listening to music
  
  
  ![Tanay's github stats](https://github-readme-stats.vercel.app/api?username=dt2811&show_icons=true)
